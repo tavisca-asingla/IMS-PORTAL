@@ -1,0 +1,10 @@
+# Visual Studio Settings
+.vs/
+node_modules/
+packages/
+
+*.dll
+
+bin/
+obj/
+out/
